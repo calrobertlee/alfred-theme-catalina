@@ -1,0 +1,63 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#C0CEDEA5"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#7B8697FF"
+      },
+      "backgroundSelected" : "#1480F5D7",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#EEEEEEE5"
+      },
+      "iconPaddingHorizontal" : 9,
+      "roundness" : 0,
+      "paddingVertical" : 4,
+      "iconSize" : 30
+    },
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "search" : {
+      "backgroundSelected" : "#1480F5D8",
+      "paddingHorizontal" : 8,
+      "spacing" : 4,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#EEEEEEFF"
+      },
+      "background" : "#96959600",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "scrollbar" : {
+      "color" : "#A9A9A9CC",
+      "thickness" : 4
+    },
+    "name" : "Cal macOS Dark",
+    "window" : {
+      "color" : "#232323CC",
+      "paddingHorizontal" : 0,
+      "width" : 560,
+      "borderPadding" : 1,
+      "borderColor" : "#A3A3A32B",
+      "blur" : 40,
+      "roundness" : 9,
+      "paddingVertical" : 6
+    }
+  }
+}

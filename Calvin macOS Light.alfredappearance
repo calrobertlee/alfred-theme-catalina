@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#1A1D21A6"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#45566FFF"
+      },
+      "backgroundSelected" : "#0069DED8",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 9,
+      "roundness" : 0,
+      "paddingVertical" : 4,
+      "iconSize" : 30
+    },
+    "search" : {
+      "backgroundSelected" : "#006ADED8",
+      "paddingHorizontal" : 8,
+      "spacing" : 4,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#000000FF"
+      },
+      "background" : "#FFFFFF00",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#FAFBFFC3",
+      "paddingHorizontal" : 0,
+      "width" : 560,
+      "borderPadding" : 1,
+      "borderColor" : "#2F2F2F16",
+      "blur" : 40,
+      "roundness" : 9,
+      "paddingVertical" : 6
+    },
+    "credit" : "Cal Robert Lee",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#323232CC",
+      "thickness" : 4
+    },
+    "name" : "Cal macOS"
+  }
+}
