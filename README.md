@@ -4,10 +4,10 @@ Alfred 4 Themes for macOS Catalina
 ## Previews
 
 ### Light
-
+![](https://raw.githubusercontent.com/calrobertlee/alfred-theme-catalina/main/Screencaptures/Catalina%20Light.png)
 
 ### Dark
-
+![](https://raw.githubusercontent.com/calrobertlee/alfred-theme-catalina/main/Screencaptures/Catalina%20Dark.png)
 
 ## About
 
